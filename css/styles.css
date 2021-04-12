@@ -4,10 +4,13 @@ html {
 body {
     font-size: 16px;
 }
-h1 {
+/*Id #
+class .
+id debe ser unico*/
+.titulo {
     text-align: center;
     font-size: 3.8rem;
 }
-span {
+.titulo span {
     font-size: 2rem;
 }
