@@ -40,3 +40,10 @@ id debe ser unico*/
     color: var(--blanco);
     text-decoration: none;
 }
+/*BEM, Utility First o Módulos*/
+.contactar a{
+    text-decoration: none;
+    color: var(--oscuro);
+}
+
+/*28*/
