@@ -34,3 +34,6 @@ id debe ser unico*/
 .navegacion-principal {
     
 }
+.navegacion-principal a {
+    background-color: var(--primario);
+}
