@@ -33,6 +33,8 @@ id debe ser unico*/
 }
 .navegacion-principal {
     padding: 1rem;
+    display: flex;
+    justify-content: space-between;
 }
 .navegacion-principal a {
     color: var(--blanco);
