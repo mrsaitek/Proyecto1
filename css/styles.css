@@ -32,18 +32,20 @@ id debe ser unico*/
     background-color: var(--secundario)
 }
 .navegacion-principal {
-    padding: 1rem;
     display: flex;
     justify-content: space-between;
 }
 .navegacion-principal a {
     color: var(--blanco);
     text-decoration: none;
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 1rem;
 }
-/*BEM, Utility First o Módulos*/
-.contactar a{
-    text-decoration: none;
-    color: var(--oscuro);
+/*BEM, Utility First o Módulos.*/
+.navegacion-principal a:hover {
+background-color: var(--primario);
+color: var(--oscuro)
 }
 
-/*28*/
+/*Eventos de css o pseudoclases*/
