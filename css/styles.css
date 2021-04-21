@@ -57,3 +57,8 @@ color: var(--oscuro)
 }
 /*Eventos de css o pseudoclases*/
 
+.hero {
+background-image: url(../img/hero.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
